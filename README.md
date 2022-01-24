@@ -1,7 +1,7 @@
 # C++ console projects
 Study projects with their features.
 
-1. Text file analyzer. 
+1. Text files analyzer. 
     * console output
     * uploading multiple files (.txt ANSI)
     * getting statistics (the most occurring words and the longest words)
@@ -14,3 +14,20 @@ Study projects with their features.
         * Numbers
         * Other language (not Russian)
     * uploading results to .txt file
+
+
+2. Notebook. 
+    * console output
+    * uploading .notes files 
+    * exporting to .notes file
+    * modification / removal / adding notes
+    * seaching among notes by
+        * authors
+        * tags
+    * notes filtration by
+        * authors
+        * tags
+        * datetimes of creation / change
+    * getting statistics (notes count for each item). items:
+        * authors
+        * tags
