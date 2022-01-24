@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Analyzer">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAACAAAAAAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Analyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAACAAAAQwACQAAAAAAAAAAQgAAAFAAEoAAAAAA=</HashCode>
+      <FileName>Facade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrequencyWordAnalyzer">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>FrequencyWordAnalyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SentenceAnalyzer">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAACAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SentenceAnalyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LengthWordAnalyzer">
+    <Position X="1.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LengthWordAnalyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordAnalyzer">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAAAAAAUQAAAAAAABAABAAAAJEAECAEAAAAAgA=</HashCode>
+      <FileName>WordAnalyzer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
