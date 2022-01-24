@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuthorStatistician" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AuthorStatistician.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Author_Filter" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAgEAAAAFAAAAAAAAQgAAAAAABAAAA=</HashCode>
+      <FileName>Author_Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeDate_Filter" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAABAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeDate_Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreationDate_Filter" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CreationDate_Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAQASAAQAAAAABAAABAAAAQgAAAAAAACBAA=</HashCode>
+      <FileName>Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NbHandler" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAABAEQAAAACAAAAAAgFAAAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>NbHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Note" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABAAAAAgAAIAFACgAQAAEAABAAAEAAAA=</HashCode>
+      <FileName>Note.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notebook" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAAAEAAIQAAAAAAAAAAAIAAAAAAAEAIAA=</HashCode>
+      <FileName>Notebook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistician" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAABAACAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statistician.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagStatistician" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagStatistician.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tags_Filter" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAIAAAAAAAAAABAAAAAAAAwgAAABAAQAAAA=</HashCode>
+      <FileName>Tags_Filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
