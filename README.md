@@ -1,5 +1,5 @@
 # C++ console projects
-Study projects with their features.
+Study projects
 
 1. Text files analyzer. 
     * console output
